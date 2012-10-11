@@ -1,0 +1,57 @@
+.root {
+    background-color: #333333;
+}
+
+.gamefield {
+    background-color: #444444;
+}
+
+.titlebar {
+    background-color: #ff0000;
+}
+
+.footerbar {
+    background-color: #ff0000;
+}
+
+.sidebar {
+    background-color: #444444;
+}
+
+.photoback {
+    background-color: #000000;
+    background-image: url('../images/question.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: #ffffff;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.loadingmask {
+    background-color: #000000;
+    background-image: url('../images/ajax-loader.gif');
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.maskinglayer {
+    background-color: #000000;
+}
+
+.gameover {
+    background-color: #ffffff;
+    color: #000000;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;  
+    font-family: "Helvetica";
+    font-size: 1.4em;
+    text-align: center;
+}
+/*
+#gameoverview {
+    display : none;
+    overflow: hidden;
+}*/
